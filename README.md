@@ -49,8 +49,8 @@ KiCad_Ext_Lib/
 Electrical & Electronics Engineering student  
 PCB Design | Embedded Systems | IoT  
 
-🔗 LinkedIn: linkedin.com/in/hariharan-a-6276b9242
-🔗 GitHub: github.com/haribhaii
+🔗 LinkedIn: https://www.linkedin.com/in/hariharan-a-6276b9242
+🔗 GitHub:  https://www.github.com/haribhaii
 
 ---
 
