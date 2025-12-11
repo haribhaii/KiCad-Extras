@@ -1,69 +1,80 @@
-# KiCad-Extras
+# KiCad Extension Library - KiCad Extras
 
-Extra symbols, footprints, and 3D models for KiCad.  
-A collection of custom KiCad schematic symbols, PCB footprints, and 3D models created from hands-on electronics projects and PCB design work.
+A growing collection of custom **KiCad symbols, footprints, and 3D models** created during personal projects, internships, and real-world PCB design work.
+
+This repository is maintained to help **students, hobbyists, and engineers** speed up prototyping and reduce repetitive library creation in KiCad.
 
 ---
 
 ## ⚠️ Disclaimer (IMPORTANT)
 
-These libraries are NOT officially verified.  
-They are intended for learning, prototyping, and experimental use only.
+> **These libraries are NOT officially verified.**  
+> They are created for learning, prototyping, and experimental use.
 
-Always verify the following before production:
-- Footprint dimensions with the component datasheet
-- Pin numbering and pad mapping
-- Courtyard, fab, and silkscreen clearances
+Always cross-check:
+- Footprint dimensions  
+- Pin numbering  
+- Datasheets  
+- Courtyard and clearance rules  
 
-The maintainer is not responsible for any manufacturing or functional issues.
+before using them in production or critical designs.
+
+The maintainer is not responsible for manufacturing or functional issues resulting from direct usage.
+
+---
+
+## 📂 Repository Structure
+
+KiCad_Ext_Lib/  
+├── Symbols/        # Custom schematic symbols (.kicad_sym)  
+├── Footprints/     # Footprint libraries (.pretty)  
+├── 3D_Models/      # STEP / WRL models  
+├── Docs/           # Notes, references, datasheets  
+└── README.md  
+
+---
+
+## 🎯 Who This Is For
+
+- Electronics & EEE students  
+- Embedded & PCB design engineers  
+- KiCad users building quick prototypes  
+- Open-source hardware enthusiasts  
 
 ---
 
 ## 👤 Maintainer
 
-Hariharan A  
-Electronics | PCB Design | Embedded Systems | IoT
+**Hariharan A**  
+Electrical & Electronics Engineering student  
+PCB Design | Embedded Systems | IoT  
 
-GitHub: https://github.com/YOUR-GITHUB-USERNAME  
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-How to contribute:
-1. Fork the repo
-2. Create a feature branch:  
-   git checkout -b feature/<component-name>
-3. Add or modify files
-4. Commit:  
-   git commit -m "Add <component> footprint/symbol"
-5. Push:  
-   git push origin feature/<component-name>
-6. Open a Pull Request with details and datasheet references
-
-Please maintain consistent naming and verify footprints.
+🔗 LinkedIn: linkedin.com/in/hariharan-a-6276b9242
+🔗 GitHub: github.com/haribhaii
 
 ---
 
-## 🐞 Issues
+## 🤝 Contributions
 
-If you find an error in a footprint, symbol, or mapping:
-- Open an Issue
-- Provide the component name + datasheet reference
+Contributions, corrections, and improvements are welcome.
+
+If you spot an issue:
+- Open an Issue  
+- Create a Pull Request  
+- Or recommend better datasheet alignment  
+
+---
+
+## ⭐ Support
+
+If this repository helped you:
+- Give it a ⭐ on GitHub  
+- Share feedback  
+- Suggest new components to add  
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.  
+This project is licensed under the **MIT License**.  
 See the LICENSE file for details.
-
----
-
-##⚠️ Components are unverified — validate before production.  
-Repo: https://github.com/haribhaii/KiCad-Extras
-
----
