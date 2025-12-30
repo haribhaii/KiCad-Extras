@@ -1,0 +1,28 @@
+(kicad_symbol_lib (version 20211014) (generator chatgpt)
+  (symbol "PinHeader_3x4"
+    (property "Reference" "J" (id 0) (at 0 5 0))
+    (property "Value" "PinHeader_3x4" (id 1) (at 0 -5 0))
+    (property "Footprint" "PinHeader_3x4.pretty:PinHeader_3x4_P2.54mm" (id 2) (at 0 -7 0))
+    (property "Datasheet" "" (id 3) (at 0 -9 0))
+
+    (rectangle (start -5 4) (end 5 -4))
+
+    (pin passive line (at -7 3.5 0) (length 2) (name "1") (number "1"))
+    (pin passive line (at  7 3.5 180) (length 2) (name "2") (number "2"))
+
+    (pin passive line (at -7 2.1 0) (length 2) (name "3") (number "3"))
+    (pin passive line (at  7 2.1 180) (length 2) (name "4") (number "4"))
+
+    (pin passive line (at -7 0.7 0) (length 2) (name "5") (number "5"))
+    (pin passive line (at  7 0.7 180) (length 2) (name "6") (number "6"))
+
+    (pin passive line (at -7 -0.7 0) (length 2) (name "7") (number "7"))
+    (pin passive line (at  7 -0.7 180) (length 2) (name "8") (number "8"))
+
+    (pin passive line (at -7 -2.1 0) (length 2) (name "9") (number "9"))
+    (pin passive line (at  7 -2.1 180) (length 2) (name "10") (number "10"))
+
+    (pin passive line (at -7 -3.5 0) (length 2) (name "11") (number "11"))
+    (pin passive line (at  7 -3.5 180) (length 2) (name "12") (number "12"))
+  )
+)
