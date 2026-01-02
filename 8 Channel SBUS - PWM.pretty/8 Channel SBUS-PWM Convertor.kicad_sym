@@ -80,7 +80,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -1.27 0)
 				(length 2.54)
 				(name "SIG1"
@@ -98,7 +98,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -3.81 0)
 				(length 2.54)
 				(name "SIG2"
@@ -116,7 +116,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -6.35 0)
 				(length 2.54)
 				(name "SIG3"
@@ -134,7 +134,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -8.89 0)
 				(length 2.54)
 				(name "SIG4"
@@ -152,7 +152,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -11.43 0)
 				(length 2.54)
 				(name "SIG5"
@@ -170,7 +170,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -13.97 0)
 				(length 2.54)
 				(name "SIG6"
@@ -188,7 +188,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -16.51 0)
 				(length 2.54)
 				(name "SIG7"
@@ -206,7 +206,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin bidirectional line
 				(at -7.62 -19.05 0)
 				(length 2.54)
 				(name "SIG8"

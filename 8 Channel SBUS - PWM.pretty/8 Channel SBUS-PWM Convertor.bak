@@ -476,7 +476,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -1.27 180)
 				(length 2.54)
 				(name "GND1"
@@ -494,7 +494,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -3.81 180)
 				(length 2.54)
 				(name "GND2"
@@ -512,7 +512,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -6.35 180)
 				(length 2.54)
 				(name "GND3"
@@ -530,7 +530,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -8.89 180)
 				(length 2.54)
 				(name "GND4"
@@ -548,7 +548,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -11.43 180)
 				(length 2.54)
 				(name "GND5"
@@ -566,7 +566,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -13.97 180)
 				(length 2.54)
 				(name "GND6"
@@ -584,7 +584,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -16.51 180)
 				(length 2.54)
 				(name "GND7"
@@ -602,7 +602,7 @@
 					)
 				)
 			)
-			(pin output line
+			(pin passive line
 				(at 22.86 -19.05 180)
 				(length 2.54)
 				(name "GND8"
