@@ -1,0 +1,253 @@
+(footprint "PEM_SMTSOB-M3-6ET"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "5.56mm Diameter, SMT Brass Surface Mount Standoff with Internal Thread M3")
+	(property "Reference" "REF**"
+		(at 0 -4.25 0)
+		(layer "F.SilkS")
+		(uuid "11778d68-2d10-4ea6-b0b7-6a2cbd464aae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2032)
+			)
+		)
+	)
+	(property "Value" "PEM_SMTSOB-M3-6ET"
+		(at 0 4.25 0)
+		(layer "F.Fab")
+		(uuid "be1505c3-92c2-4f4a-8059-57f1be8ca7c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2032)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0bcf58ad-9b60-4f50-a17e-de8d8354582e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2032)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be5049bb-109d-4536-a4ee-06f49415070b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2032)
+			)
+		)
+	)
+	(attr allow_missing_courtyard)
+	(fp_circle
+		(center 0 0)
+		(end 0 -3.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fb99a052-fe5e-4769-82f2-1917dfbefb89")
+	)
+	(fp_poly
+		(pts
+			(xy -0.5 3.05941) (xy -0.73889 3.02037) (xy -1.19875 2.86907) (xy -1.62956 2.64823) (xy -2.02087 2.36319) (xy -2.36319 2.02087) (xy -2.64823 1.62957) (xy -2.86907 1.19876) (xy -3.02037 0.73889) (xy -3.05941 0.5) (xy -2.06534 0.5) (xy -2.02229 0.6381) (xy -1.91001 0.90457) (xy -1.76441 1.1544) (xy -1.58791 1.38345) (xy -1.38345 1.58791) (xy -1.1544 1.76441) (xy -0.90457 1.91001) (xy -0.6381 2.02229) (xy -0.5 2.06534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "ee529d7f-0f25-4eb0-b9f7-a7644afd2f85")
+	)
+	(fp_poly
+		(pts
+			(xy -3.05941 -0.5) (xy -3.02037 -0.73889) (xy -2.86907 -1.19875) (xy -2.64822 -1.62956) (xy -2.36319 -2.02086) (xy -2.02087 -2.36318) (xy -1.62956 -2.64822) (xy -1.19875 -2.86906) (xy -0.73889 -3.02036) (xy -0.5 -3.0594) (xy -0.5 -3.05941) (xy -0.5 -2.06534) (xy -0.6381 -2.02229) (xy -0.90457 -1.91001) (xy -1.1544 -1.76441) (xy -1.38345 -1.58791) (xy -1.58792 -1.38345) (xy -1.76441 -1.1544) (xy -1.91001 -0.90457) (xy -2.02229 -0.6381) (xy -2.06534 -0.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "aafb0ddf-6779-47ce-9e20-327c69477a52")
+	)
+	(fp_poly
+		(pts
+			(xy 3.05941 0.5) (xy 3.02037 0.73889) (xy 2.86907 1.19876) (xy 2.64823 1.62957) (xy 2.36319 2.02087) (xy 2.02087 2.36319) (xy 1.62956 2.64823) (xy 1.19875 2.86907) (xy 0.73888 3.02037) (xy 0.49999 3.05941) (xy 0.5 3.05941) (xy 0.5 2.06534) (xy 0.6381 2.02229) (xy 0.90457 1.91) (xy 1.15439 1.76441) (xy 1.38344 1.58791) (xy 1.58791 1.38345) (xy 1.7644 1.1544) (xy 1.91 0.90457) (xy 2.02228 0.63811) (xy 2.06533 0.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "c2f74aa1-92cb-4cd8-9f6e-b93d273d924f")
+	)
+	(fp_poly
+		(pts
+			(xy 0.5 -3.05941) (xy 0.73888 -3.02037) (xy 1.19875 -2.86907) (xy 1.62956 -2.64822) (xy 2.02087 -2.36319) (xy 2.36319 -2.02087) (xy 2.64822 -1.62956) (xy 2.86907 -1.19875) (xy 3.02036 -0.73888) (xy 3.0594 -0.49999) (xy 3.05941 -0.5) (xy 2.06534 -0.5) (xy 2.02229 -0.6381) (xy 1.91001 -0.90457) (xy 1.76441 -1.1544) (xy 1.58792 -1.38345) (xy 1.38345 -1.58791) (xy 1.1544 -1.76441) (xy 0.90457 -1.91001) (xy 0.6381 -2.02229) (xy 0.5 -2.06533) (xy 0.5 -2.06534)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "d0525283-a8d4-43e0-86dd-fe8569c3f0ea")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "beb9e8d4-136a-4282-a40d-899cf670af61")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -0.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "34e4e858-e3e2-4499-be15-449fd2538032")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0.5 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "10a258b8-1a41-47aa-9f0b-350863f748e2")
+	)
+	(fp_line
+		(start 0 0.5)
+		(end 0 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "c5f39da1-89c0-4e77-9af0-11c1aa0b9b04")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "7bd0d847-0772-40b9-9a9e-b1cc63dba919")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -2.125)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "ccfbee6f-ad34-415e-a394-ed63e4bd4419")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -2.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "39866db4-4c9c-4e7f-a5ff-18af3055617e")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f7c21bab-92a5-45f0-8802-2a89566d7b3d")
+	)
+	(pad "" thru_hole circle
+		(at -1.84604 -1.84604)
+		(size 0.7 0.7)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting none)
+		(uuid "a304847b-2393-4ea8-bf9d-fccf3961bef9")
+	)
+	(pad "" thru_hole circle
+		(at -1.84604 1.84604)
+		(size 0.7 0.7)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting none)
+		(uuid "869761ba-7009-49fb-9b98-d682e2d2b8b6")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 6.2 6.2)
+		(drill 4.25)
+		(layers "F&B.Cu" "*.Mask")
+		(thermal_bridge_angle 90)
+		(uuid "f4809bb4-ee98-4ec0-96fa-c308ab1252b9")
+	)
+	(pad "" thru_hole circle
+		(at 1.84604 -1.84604)
+		(size 0.7 0.7)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting none)
+		(uuid "288c5c1c-b3c3-4945-a546-129464136ff1")
+	)
+	(pad "" thru_hole circle
+		(at 1.84604 1.84604)
+		(size 0.7 0.7)
+		(drill 0.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(tenting none)
+		(uuid "cb7af48d-8526-44ba-94ed-5914722a3fd4")
+	)
+	(embedded_fonts no)
+	(model "${CERN_3DMODEL_DIR}/PEM_SMTSO-M3-6ET.stp"
+		(offset
+			(xyz 0.00011 0.00006 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)
